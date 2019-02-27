@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?Siebel-Property-Set EscapeNames="true"?>
+<ADMDeploymentUnit 
+        SchemaVersion="51.20.20.53" ADMCategory="Database" SRFVersion="43|1511128798|1512394174" CreatorID="SADMIN" DataFileNameAtCreation="C:\ADM\Tets\1-2AYTXQ_Symbolic_URL.xml" DescriptorFileFormatVersion="1.0" 
+        DataFileCreationTime="2017-12-05 09:49:02" SiebelVersion="16.7.0.0 [23057] ENU">
+  <DeploymentType Name="Content Fixup">
+    <Object Name="DNBReport"></Object>
+    <Object Name="Default"></Object>
+    <Object Name="DoNothing"></Object>
+    <Object Name="InsideApplet"></Object>
+    <Object Name="LitCatInline"></Object>
+    <Object Name="OutsideApplication"></Object>
+  </DeploymentType>
+  <DeploymentType Name="Host Table">
+    <Object Name="BillStatementHost"></Object>
+    <Object Name="OWD Server"></Object>
+    <Object Name="[ActuateServerName]"></Object>
+    <Object Name="[Administration Host]"></Object>
+    <Object Name="[AnalyticsServerName]"></Object>
+    <Object Name="[AnalyticsServerName]:80"></Object>
+    <Object Name="[BIPublisherServer Host]:port"></Object>
+    <Object Name="[EBS Server name ex: rws60070rems.us.oracle.com:8024]"></Object>
+    <Object Name="[Embedded HostName]"></Object>
+    <Object Name="[InQuiraMachineName]"></Object>
+    <Object Name="[RTDServer]"></Object>
+    <Object Name="[SSOServerName]"></Object>
+    <Object Name="[ServerName]"></Object>
+    <Object Name="[SharePointArchivalServerName]"></Object>
+    <Object Name="[SharePointServerName]"></Object>
+    <Object Name="[Support soft Server]"></Object>
+    <Object Name="[server name:port number ex: slc05aog.us.oracle.com:16200]"></Object>
+    <Object Name="siebelunleashed.com"></Object>
+    <Object Name="www.dnb.com"></Object>
+    <Object Name="www.mariana-taejung.com"></Object>
+  </DeploymentType>
+  <DeploymentType Name="Symbolic URL">
+    <Object Application_spcName="default" Name="AdmImportTest"></Object>
+  </DeploymentType>
+</ADMDeploymentUnit>
